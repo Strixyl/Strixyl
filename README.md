@@ -2,6 +2,12 @@
   <img alt="Coding" width="400" src="https://media.tenor.com/sbfBfp3FeY8AAAAj/oia-uia.gif">
 </div>
 
+
+<div align="center">
+  <h2>Most Use Language</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixyl&theme=tokyonight">
+</div>
+
 <div align="center">
   <h2>Strixyl's GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Strixyl&show_icons=true&theme=dark">
@@ -13,10 +19,7 @@
 </div>
 
 
-<div align="center">
-  <h2>Most Use Language</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight">
-</div>
+
 
 
   
