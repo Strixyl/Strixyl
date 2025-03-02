@@ -5,7 +5,7 @@
 
 <div align="center">
   <h2>Most Use Language</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixyl&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixyl&theme=dark">
 </div>
 
 <div align="center">
