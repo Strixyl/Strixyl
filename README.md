@@ -3,8 +3,7 @@
 
 - 🌱 Studying Data Science...
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m&width={500})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m&width={300})
 
   
 <!--
