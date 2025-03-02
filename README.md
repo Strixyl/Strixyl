@@ -14,11 +14,9 @@
 
   
 <!--
-**Strixyl/Strixyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
-- 🌱 Currently learning Data Science...
+COMMENT SECTION HERE/ WILL NOT BEB DISPLAYED
+
 
 -->
