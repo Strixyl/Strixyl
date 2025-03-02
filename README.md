@@ -13,13 +13,10 @@
 </div>
 
 
-
 <div align="center">
-  <h2>Recently Played on Spotify</h2>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m">
+  <h2>Most Use Language</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight">
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
 
   
