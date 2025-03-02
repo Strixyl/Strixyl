@@ -4,7 +4,7 @@
 - 🌱 Studying Data Science...
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m)
 
   
 <!--
