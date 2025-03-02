@@ -12,6 +12,9 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m">
 </div>
 
+
+![](https://raw.githubusercontent.com/Strixyl/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
   
 <!--
 
