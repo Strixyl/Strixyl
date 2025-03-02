@@ -13,7 +13,14 @@
 </div>
 
 
-![](https://raw.githubusercontent.com/Strixyl/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+<div align="center">
+  <h2>Recently Played on Spotify</h2>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m">
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+
 
   
 <!--
