@@ -17,9 +17,6 @@
   <h2>Recently Played on Spotify</h2>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m">
 </div>
-<div align="center">
- ![GitHub Snake Dark](https://github.com/Strixyl/Strixyl/blob/output/snake.svg#gh-dark-mode-only)
-</div>
 
 <!--
 
