@@ -18,6 +18,10 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m">
 </div>
 
+<div align="center">
+![Snake animation](https://github.com/Strixyl/Strixyl/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 <!--
 
 
