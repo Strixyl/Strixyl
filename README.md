@@ -22,7 +22,7 @@
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Juss/30-nites-of-code)  
   ![@Juss #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Juss)
-</div>div>
+</div>
 <!--
 
 
