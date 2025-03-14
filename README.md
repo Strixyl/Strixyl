@@ -16,11 +16,20 @@
 <div align="center">
   <h2>Recently Played on Spotify</h2>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m">
+</div>
+
   ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Juss/30-nites-of-code)  
   ![@Juss #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Juss)
-</div>
 
+<div align="center">
+
+## #30NitesOfCode
+[Check out my progress!](https://www.codedex.io/@Juss/30-nites-of-code)  
+
+<img src="https://www.codedex.io/api/petStatus?user=Juss" alt="@Juss #30NitesOfCode">
+
+</div>
 
 
 
