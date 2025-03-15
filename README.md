@@ -16,7 +16,8 @@
   </table>
 </div>
 <div align="center">
-   <h2>Playing on Spotify</h2>
+   <h2>Playing on Spotify</h2> 
+   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&redirect=true">
    <img src="[https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m](https://spotify-github-profile.kittinanx.com/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=000000)](https://spotify-github-profile.kittinanx.com/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&redirect=tru)">
   </a>
 </div>
