@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>📊 GitHub Stats & Most Used Languages</h2>
+  <h2>📊Most Used Languages</h2>
   <table>
     <tr>
       <td>
@@ -17,7 +17,6 @@
 </div>
 
 <div align="center">
-  <h2>🎵 Currently Listening on Spotify</h2>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing">
   </a>
