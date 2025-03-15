@@ -5,13 +5,15 @@
 
 <div align="center">
   <h2>Most Used Language</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixyl&theme=dark">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juss&layout=pie)](https://github.com/anuraghazra/github-readme-stats)  
+
 </div>
 
 <div align="center">
   <h2>Strixyl's GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Strixyl&show_icons=true&theme=dark">
 </div>
+
 
 <div align="center">
   <h2>Recently Played on Spotify</h2>
