@@ -18,7 +18,7 @@
 <div align="center">
   <h2>🎵 Currently Listening on Spotify</h2>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=000000" alt="Spotify Now Playing">
+    <img src="(https://spotify-github-profile.kittinanx.com/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
   </a>
 </div>
 
