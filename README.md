@@ -17,8 +17,8 @@
 </div>
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing">
+   <h2>Recently Played on Spotify</h2>
+   <img src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m">
   </a>
 </div>
 
@@ -30,6 +30,8 @@
 
 
 <!--
+
+
 
 
 
