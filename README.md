@@ -5,7 +5,7 @@
 
 <div align="center">
   <h2>Most Used Language</h2>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Strixy/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juss&layout=pie" alt="Top Languages">
    <h2>Strixyl's GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Strixyl&show_icons=true&theme=dark">
