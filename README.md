@@ -25,7 +25,7 @@
           <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=false" alt="Spotify Now Playing">
         </a>
       </td>
-      <td width="50%">
+      <td width="150%">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m&unique=true" alt="Spotify Recently Played">
       </td>
     </tr>
