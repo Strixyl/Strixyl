@@ -13,10 +13,11 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Strixyl&show_icons=true&theme=dark">
       </td>
       <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Strixyl&theme=midnight-purple&hide_border=true">
-      </td>
-    </tr>
   </table>
+</div>
+
+<div align="Center">
+ <img src="https://nirzak-streak-stats.vercel.app/?user=Strixyl&theme=midnight-purple&hide_border=true">
 </div>
 
 <div align="center">
