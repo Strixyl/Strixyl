@@ -21,7 +21,6 @@
 ---
 
 <div align="Center">
-  <h2 style="color:#9b59b6;">🔥 GitHub Streak</h2>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Strixyl&theme=midnight-purple&hide_border=true" alt="GitHub Streak">
 </div>
 
