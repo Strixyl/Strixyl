@@ -9,10 +9,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixyl&layout=pie&theme=midnight-purple" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixyl&layout=pie&theme=midnight-purple&hide_border=tru" alt="Top Languages">
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Strixyl&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Strixyl&show_icons=true&theme=midnight-purple&hide_border=tru" alt="GitHub Stats">
       </td>
     </tr>
   </table>
