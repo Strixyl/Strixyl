@@ -9,10 +9,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixyl&layout=pie&theme=midnight-purple&hide_border=tru" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixyl&layout=pie&theme=midnight-purple" alt="Top Languages">
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Strixyl&show_icons=true&theme=midnight-purple&hide_border=tru" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Strixyl&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
       </td>
     </tr>
   </table>
@@ -33,7 +33,7 @@
     <tr>
       <td>
         <a href="https://github.com/kittinan/spotify-github-profile">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false" alt="Spotify Now Playing">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=false" alt="Spotify Now Playing">
         </a>
       </td>
       <td>
