@@ -49,6 +49,13 @@
   <img src="https://www.codedex.io/api/petStatus?user=Juss" alt="@Juss #30NitesOfCode">
 </div>
 
+<div align="center">
+  <h2 style="color:#9b59b6;">🔥 #30NitesOfCode</h2>
+  <img src="https://www.codedex.io/api/petStatus?user=Juss" alt="@Juss #30NitesOfCode">
+</div>
+
+
+
 
 <!--
 removed integs 
