@@ -44,6 +44,8 @@
 </div>
 
 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:uretajuster@gmail.com)
+
 
 ---
 
