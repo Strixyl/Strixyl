@@ -50,16 +50,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
 </div>
----
-
-<!--
-removed integs 
-<div align="center">
-   <h2>Recently Played on Spotify</h2>
-   <img src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m">
-  </a>
-</div>
-
 
 <div align="center">
 ![Snake animation](https://github.com/Strixyl/Strixyl/blob/output/github-contribution-grid-snake.svg)
