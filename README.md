@@ -43,7 +43,7 @@
   </table>
 </div>
 
-## 📫 Contact Me
+ 📫 Contact Me
 
 <div align="center">
   <a href="mailto:your.email@gmail.com">
