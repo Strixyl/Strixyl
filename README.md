@@ -51,11 +51,5 @@
   </a>
 </div>
 
-<div align="center">
-![Snake animation](https://github.com/Strixyl/Strixyl/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-COMMENT SECTION HERE/ WILL NOT BEB DISPLAYED
 
 
--->
