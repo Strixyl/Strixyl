@@ -26,18 +26,17 @@
 
 
 ---
-
 <div align="center">
   <h2 style="color:#9b59b6;">🎵 Spotify Activity</h2>
   <table>
     <tr>
       <td>
         <a href="https://github.com/kittinan/spotify-github-profile">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=9b24fd&bar_color_cover=true" alt="Spotify Now Playing">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=9b59b6&bar_color_cover=true" alt="Spotify Now Playing">
         </a>
       </td>
       <td>
-       <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_correct_username&unique=true&count=5&background_color=000000&text_color=9b59b6" alt="Spotify Recently Played">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m&unique=true&count=5&background_color=ffffff&text_color=9b59b6" alt="Spotify Recently Played">
       </td>
     </tr>
   </table>
