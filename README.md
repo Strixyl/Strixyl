@@ -37,7 +37,7 @@
         </a>
       </td>
       <td>
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m&unique=true&count=5&background_color=000000&text_color=9b59b6" alt="Spotify Recently Played">
+        <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m)" alt="Spotify Recently Played">
       </td>
     </tr>
   </table>
