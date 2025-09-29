@@ -5,14 +5,14 @@
 ---
 
 <div align="center">
-  <h2 style="color:#9b59b6;">📊 Most Used Languages</h2>
+  <h2 style="color:#64748b;">📊 Most Used Languages</h2>
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixyl&layout=pie&theme=midnight-purple" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixyl&layout=pie&theme=slateorange" alt="Top Languages">
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Strixyl&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Strixyl&show_icons=true&theme=slateorange" alt="GitHub Stats">
       </td>
     </tr>
   </table>
@@ -21,25 +21,25 @@
 ---
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Strixyl&theme=midnight-purple&hide_border=true" alt="GitHub Streak">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Strixyl&theme=slateorange&hide_border=true" alt="GitHub Streak">
 </div>
 
 ---
 
 <div align="center">
-  <h2 style="color:#9b59b6;">🎵 Spotify Activity</h2>
+  <h2 style="color:#64748b;">🎵 Spotify Activity</h2>
   <table>
     <tr>
       <td>
-        <!-- ✅ Now Playing -->
+        <!-- ✅ Now Playing (Slate style) -->
         <a href="https://github.com/kittinan/spotify-github-profile">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&cover_image=true&theme=slate&show_offline=false&background_color=1e293b&bar_color=94a3b8&bar_color_cover=true" alt="Spotify Now Playing">
         </a>
       </td>
       <td>
-        <!-- ✅ Recently Played -->
+        <!-- ✅ Recently Played (Slate style) -->
         <a href="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m">
-          <img src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m&unique=true&count=5&background_color=121212&text_color=9b59b6" alt="Spotify Recently Played">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m&unique=true&count=5&background_color=1e293b&text_color=94a3b8" alt="Spotify Recently Played">
         </a>
       </td>
     </tr>
@@ -51,7 +51,7 @@
 📫 **Contact Me**
 
 <div align="center">
-  <a href="mailto:uretajuster@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1e293b?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
 </div>
