@@ -38,9 +38,17 @@
       <td>
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m&unique=true&count=5&background_color=ffffff&text_color=9b59b6" alt="Spotify Recently Played">
       </td>
+      <td>
+        <a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=9b24fd&bar_color_cover=true" />
+</a>
+
+      </td>
     </tr>
   </table>
 </div>
+
+
 
  📫 Contact Me
 
