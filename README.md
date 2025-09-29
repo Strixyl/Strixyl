@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <h2 style="color:#64748b;">📊 Most Used Languages</h2>
+  <h2 style="color:#94a3b8;">📊 Most Used Languages</h2>
   <table>
     <tr>
       <td>
@@ -27,19 +27,19 @@
 ---
 
 <div align="center">
-  <h2 style="color:#64748b;">🎵 Spotify Activity</h2>
+  <h2 style="color:#94a3b8;">🎵 Spotify Activity</h2>
   <table>
     <tr>
       <td>
-        <!-- ✅ Now Playing (Slate style) -->
+        <!-- ✅ Now Playing (DigitalOcean endpoint with black background) -->
         <a href="https://github.com/kittinan/spotify-github-profile">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&cover_image=true&theme=slate&show_offline=false&background_color=1e293b&bar_color=94a3b8&bar_color_cover=true" alt="Spotify Now Playing">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=94a3b8&bar_color_cover=true" alt="Spotify Now Playing">
         </a>
       </td>
       <td>
-        <!-- ✅ Recently Played (Slate style) -->
+        <!-- ✅ Recently Played (Slate + Black style) -->
         <a href="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m">
-          <img src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m&unique=true&count=5&background_color=1e293b&text_color=94a3b8" alt="Spotify Recently Played">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m&unique=true&count=5&background_color=000000&text_color=94a3b8" alt="Spotify Recently Played">
         </a>
       </td>
     </tr>
@@ -52,6 +52,6 @@
 
 <div align="center">
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1e293b?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
 </div>
