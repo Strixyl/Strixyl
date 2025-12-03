@@ -1,9 +1,7 @@
 <div align="center">
   <img alt="Coding" width="400" src="https://media.tenor.com/sbfBfp3FeY8AAAAj/oia-uia.gif">
 </div>
-
 ---
-
 <div align="center">
   <h2><font color="#94a3b8">📊 Most Used Languages</font></h2>
   <table>
@@ -17,15 +15,11 @@
     </tr>
   </table>
 </div>
-
 ---
-
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Strixyl&theme=slateorange&hide_border=true" alt="GitHub Streak">
 </div>
-
 ---
-
 <div align="center">
   <h2><font color="#94a3b8">🎵 Spotify Activity</font></h2>
   <table>
@@ -43,9 +37,7 @@
     </tr>
   </table>
 </div>
-
 ---
-
 📫 **Contact Me**
 <div align="center">
   <a href="mailto:uretajuster@gmail.com">
