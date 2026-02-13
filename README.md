@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <h2><font color="#94a3b8">📊 Most Used Languages</font></h2>
+  <h2> Most Used Languages</h2>
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Strixyl&layout=pie&theme=slateorange" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixyl&layout=pie&theme=slateorange&hide_border=true&cache_seconds=1800" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Strixyl&show_icons=true&theme=slateorange" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Strixyl&show_icons=true&theme=slateorange&hide_border=true&cache_seconds=1800" />
       </td>
     </tr>
   </table>
