@@ -42,15 +42,15 @@
       <td>
         <a href="https://github.com/kittinan/spotify-github-profile">
           <img 
-            src="https://spotify-github-profile.kittinanx.com/api/view?uid=qkoi3o0oqybzwf6ja5hvtzw5m&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=94a3b8&bar_color_cover=true" 
+            src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bqn6eboyimaxqxlp7yqh2pyfye&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=94a3b8&bar_color_cover=true" 
             alt="Spotify Now Playing" 
           />
         </a>
       </td>
       <td>
-        <a href="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m">
+        <a href="https://spotify-recently-played-readme.vercel.app/api?user=31bqn6eboyimaxqxlp7yqh2pyfye">
           <img 
-            src="https://spotify-recently-played-readme.vercel.app/api?user=qkoi3o0oqybzwf6ja5hvtzw5m&unique=true&count=5&background_color=000000&text_color=94a3b8" 
+            src="https://spotify-recently-played-readme.vercel.app/api?user=31bqn6eboyimaxqxlp7yqh2pyfye&unique=true&count=5&background_color=000000&text_color=94a3b8" 
             alt="Spotify Recently Played" 
           />
         </a>
