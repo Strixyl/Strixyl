@@ -4,25 +4,22 @@
 
 <br>
 
-<br>
-
 <div align="center">
   <h2>📊 GitHub Stats</h2>
 
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Strixyl&show_icons=true&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Strixyl&theme=github_dark"
     alt="GitHub Stats"
   />
 
+  <br><br>
+
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixyl&layout=compact&theme=slateorange&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Strixyl&theme=github_dark"
     alt="Top Languages"
   />
-</div>
 
-<br>
+</div>
 
 <br>
 
