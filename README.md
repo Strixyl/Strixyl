@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img src="metrics.isocalendar.svg" width="100%" alt="Isometric commit calendar" />
+  <img src="metrics.isocalendar.svg" width="80%" alt="Isometric commit calendar" />
 </div>
 
 <br>
