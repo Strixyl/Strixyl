@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://media.tenor.com/94j7d6r8kNUAAAAj/scuba.gif" width="160" style="border-radius:50%" />
   <h2>Juster Ureta</h2>
+  <p><code>github.com/Strixyl</code></p>
 </div>
 
 <br>
@@ -44,7 +45,6 @@
 <br>
 
 <div align="center">
-
 </div>
 
 <div align="center">
