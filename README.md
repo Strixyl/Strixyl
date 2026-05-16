@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Coding" width="400" src="<div class="tenor-gif-embed" data-postid="17836782815589208277" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/scuba-gif-17836782815589208277">Scuba Sticker</a>from <a href="https://tenor.com/search/scuba-stickers">Scuba Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
+  <img alt="Coding" width="400" src="https://tenor.com/view/scuba-gif-17836782815589208277">
 </div>
 
 <br>
