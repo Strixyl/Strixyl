@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <img src="metrics.isocalendar.svg" width="480" alt="Isometric commit calendar" />
+  <img src="metrics.isocalendar.svg" width="100%" alt="Isometric commit calendar" />
 </div>
 
 <br>
@@ -37,14 +37,15 @@
 
 <div align="center">
   <table><tr>
-    <td><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bqn6eboyimaxqxlp7yqh2pyfye&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=94a3b8&bar_color_cover=true" width="240" /></td>
-    <td><img src="https://spotify-recently-played-readme.vercel.app/api?user=31bqn6eboyimaxqxlp7yqh2pyfye&count=5&unique=true&background_color=121212&text_color=94a3b8" width="240" /></td>
+    <td><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bqn6eboyimaxqxlp7yqh2pyfye&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=94a3b8&bar_color_cover=true" /></td>
+    <td><img src="https://spotify-recently-played-readme.vercel.app/api?user=31bqn6eboyimaxqxlp7yqh2pyfye&count=5&unique=true&background_color=121212&text_color=94a3b8" /></td>
   </tr></table>
 </div>
 
 <br>
 
 <div align="center">
+
 </div>
 
 <div align="center">
