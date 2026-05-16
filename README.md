@@ -4,25 +4,25 @@
 
 <br>
 
+<br>
+
 <div align="center">
-  <h2>Most Used Languages</h2>
-  <table>
-    <tr>
-      <td width="50%">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixyl&layout=pie&theme=slateorange&hide_border=true&cache_seconds=1800" 
-          alt="Top Languages" 
-        />
-      </td>
-      <td width="50%">
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=Strixyl&show_icons=true&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" 
-          alt="GitHub Stats" 
-        />
-      </td>
-    </tr>
-  </table>
+  <h2>📊 GitHub Stats</h2>
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Strixyl&show_icons=true&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strixyl&layout=compact&theme=slateorange&hide_border=true"
+    alt="Top Languages"
+  />
 </div>
+
+<br>
 
 <br>
 
