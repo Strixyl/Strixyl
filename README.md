@@ -2,8 +2,7 @@
   <img src="https://media.tenor.com/94j7d6r8kNUAAAAj/scuba.gif" width="140" style="border-radius:50%" />
   
   <h1>Juster Ureta</h1>
-  <h3>🎓 Computer Science Student &nbsp;·&nbsp; 📊 Data Science Specialization</h3>
-  <p><i>Turning data into insights, one commit at a time.</i></p>
+  <h2>🎓 Computer Science Student &nbsp;·&nbsp; 📊 Data Science Specialization</h2>
 </div>
 
 <br>
@@ -12,22 +11,33 @@
 
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-<br>
-
 <div align="center">
-
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+        <br>R
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <br>Figma
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
