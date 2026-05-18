@@ -3,7 +3,6 @@
   
   <h1 style="font-size:36px;font-weight:700;margin-bottom:4px;">Juster Ureta</h1>
   <h3 style="font-size:18px;font-weight:500;margin-top:0;margin-bottom:8px;">🎓 Computer Science Student &nbsp;·&nbsp; 📊 Data Science Specialization</h3>
-  <p style="font-size:15px;color:#8b949e;margin-top:0;"><i>Turning data into insights & crafting UI prototypes for web and mobile, one commit at a time.</i></p>
 </div>
 
 <br>
