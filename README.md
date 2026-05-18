@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://media.tenor.com/94j7d6r8kNUAAAAj/scuba.gif" width="250" style="border-radius:75%" />
+  <img src="https://media.tenor.com/94j7d6r8kNUAAAAj/scuba.gif" width="140" style="border-radius:50%" />
   
-  <h1>Juster Ureta</h1>
-  <h2>🎓 Computer Science Student &nbsp;·&nbsp; 📊 Data Science Specialization</h2>
+  <h1 style="font-size:36px;font-weight:700;margin-bottom:4px;">Juster Ureta</h1>
+  <h3 style="font-size:18px;font-weight:500;margin-top:0;margin-bottom:8px;">🎓 Computer Science Student &nbsp;·&nbsp; 📊 Data Science Specialization</h3>
+  <p style="font-size:15px;color:#8b949e;margin-top:0;"><i>Turning data into insights & crafting UI prototypes for web and mobile, one commit at a time.</i></p>
 </div>
 
 <br>
@@ -11,43 +12,45 @@
 
 </div>
 
-</div>
-
-</div>
-
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
+        <br><span style="font-size:13px;">Python</span>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
-        <br>R
+        <br><span style="font-size:13px;">R</span>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
+        <br><span style="font-size:13px;">TypeScript</span>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
+        <br><span style="font-size:13px;">Git</span>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        <br>Figma
+        <br><span style="font-size:13px;">Figma</span>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br>HTML
+        <br><span style="font-size:13px;">HTML</span>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-        <br>CSS
+        <br><span style="font-size:13px;">CSS</span>
       </td>
     </tr>
   </table>
+</div>
+
+<br>
+
+<div align="center">
+
 </div>
 
 <div align="center">
