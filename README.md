@@ -70,9 +70,7 @@
 <div align="center">
   <img src="metrics.isocalendar.svg" width="65%" alt="Isometric commit calendar" />
 </div>
-
 <br>
-
 <div align="center">
 
 </div>
