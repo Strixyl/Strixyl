@@ -42,11 +42,8 @@
 </div>
 
 <br>
-
 <div align="center">
-
 </div>
-
 <div align="center">
   <table><tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Strixyl&theme=github_dark" /></td>
