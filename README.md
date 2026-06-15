@@ -66,7 +66,6 @@
 <div align="center">
 
 </div>
-
 <div align="center">
   <table><tr>
     <td><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bqn6eboyimaxqxlp7yqh2pyfye&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=94a3b8&bar_color_cover=true" /></td>
