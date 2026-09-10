@@ -67,8 +67,9 @@
 </div>
 <div align="center">
   <table><tr>
-    <td><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bqn6eboyimaxqxlp7yqh2pyfye&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=94a3b8&bar_color_cover=true" /></td>
-    <td><img src="https://[spotify-recently-played-readme.vercel.app/api?user=31bqn6eboyimaxqxlp7yqh2pyfye&count=5&unique=true&background_color=121212&text_color=94a3b8](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31bqn6eboyimaxqxlp7yqh2pyfye&theme=catppuccin&count=7&width=650&radius=24&footer=wave)" /></td>
+    <a href="https://open.spotify.com/user/31bqn6eboyimaxqxlp7yqh2pyfye">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31bqn6eboyimaxqxlp7yqh2pyfye&amp;theme=catppuccin&amp;count=7&amp;width=650&amp;radius=14&amp;footer=wave" alt="Spotify recently played" width="650" />
+</a>
   </tr></table>
 </div>
 
