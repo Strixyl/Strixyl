@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.tenor.com/94j7d6r8kNUAAAAj/scuba.gif" width="140" style="border-radius:50%" />
   <h1 style="font-size:36px;font-weight:700;margin-bottom:4px;">Juster Ureta</h1>
-  <h3 style="font-size:18px;font-weight:500;margin-top:0;margin-bottom:8px;">🎓 Computer Science Student &nbsp;·&nbsp; 📊 Data Science Specialization</h3>
+  <h3 style="font-size:18px;font-weight:500;margin-top:0;margin-bottom:8px;"> Computer Science Student &nbsp;·&nbsp;  Data Science Specialization</h3>
 </div>
 <br>
 <div align="center">
@@ -68,7 +68,7 @@
 <div align="center">
   <table><tr>
     <a href="https://open.spotify.com/user/31bqn6eboyimaxqxlp7yqh2pyfye">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31bqn6eboyimaxqxlp7yqh2pyfye&amp;theme=catppuccin&amp;count=7&amp;width=650&amp;radius=14&amp;footer=wave" alt="Spotify recently played" width="650" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31bqn6eboyimaxqxlp7yqh2pyfye&amp;theme=transparent&amp;count=7&amp;width=650&amp;radius=14&amp;footer=wave" alt="Spotify recently played" width="650" />
 </a>
   </tr></table>
 </div>
